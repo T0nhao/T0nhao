@@ -7,10 +7,14 @@
 -🔎Adoro conhecer coisas novas e levo isso para as pessoas também(será que você já conhecia todas as palavras acima?)                            
 -👨‍💻Atualmente focado em:             
 <img width="150" src="https://media.istockphoto.com/id/1310718624/pt/foto/smiley.jpg?s=1024x1024&w=is&k=20&c=AmvkqrX-dVAU4ijnOxSOzttXPskmCMyyU7pFggtenwY=">  
- ## Ainda estamos trabalhando nisso, volte mais tarde
+ #### Ainda estamos trabalhando nisso, volte mais tarde
 
  ## Me encontre também:
  <a href="https://www.instagram.com/antonioatra">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:aatra8@gmail.com">
+
+ <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
 </a>
 
