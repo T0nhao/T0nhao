@@ -19,7 +19,7 @@
 </a>
 
 <h2 style="display:inline">Uma peculiaridade sobre mim</h2>
-<img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c5dnFsbGJvZW0xamZ3aXp0M2UyOWw2OHpmMnc5NHkweWxodHUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XvNdCCEdVYPwAqLWEI/giphy.webp" width="100">
+<img style="display:inline"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c5dnFsbGJvZW0xamZ3aXp0M2UyOWw2OHpmMnc5NHkweWxodHUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XvNdCCEdVYPwAqLWEI/giphy.webp" width="100">
 Eu nunca entendi sobre esse trem de peculiaridade🤔, pode ser incomum para os outros, mas pra mim é super normal, só que se eu fosse pontuar um eu diria que eu gosto de colecionar pedras.Sim,pedras, tenho uma caixa cheia delas.Hoje em dia eu já nem olho muito, mas quando eu era mais novo passava tempo procurando. Dentre as inúmeras pedras que eu tenho, a que eu mais gosto é uma que ganhei que veio la do monte everest.-Ah mas o que ela tem de mais? Nada, é só uma pedra.
 
  
